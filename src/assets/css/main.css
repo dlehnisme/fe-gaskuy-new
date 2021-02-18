@@ -29135,7 +29135,7 @@ video {
   animation: bounce 1s infinite;
 }
 
-@import '../css/style.css';
+@import "./style.css";
 
 @media (min-width: 640px) {
   .sm\:container {

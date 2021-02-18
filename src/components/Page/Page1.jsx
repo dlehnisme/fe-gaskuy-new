@@ -4,7 +4,9 @@ export class Page1 extends Component {
     render() {
         return (
             <div>
-                hai
+                <p className="text-right text-8xl font-bold text-green-500">
+                    haiasda
+                </p>
             </div>
         )
     }
